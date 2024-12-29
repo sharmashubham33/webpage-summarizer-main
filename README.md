@@ -13,11 +13,11 @@ Webpage Summarizer is a Chrome extension that uses Gemini AI to summarize webpag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/webpage-summarizer.git
+   git clone https://github.com/sharmashubham33/webpage-summarizer-main.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd webpage-summarizer
+   cd webpage-summarizer-main
    ```
 3. Load the extension in Chrome:
    - Open Chrome and go to `chrome://extensions/`.
@@ -52,4 +52,4 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is made and owned by Shubham Sharma.
