@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Webpage Summarizer Main",
+  "version": "1.0",
+  "description": "Summarizes webpage content using Gemini AI",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
